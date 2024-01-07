@@ -3,7 +3,7 @@ import React from "react";
 import { useRoutes } from "react-router-dom";
 import Achild from "./Achild";
 import A from "./A";
-// kinar
+// kinar1
 function Routes1() {
   let routes = useRoutes([
     {
